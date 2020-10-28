@@ -134,8 +134,9 @@ After verifying you have ruby installed and completing the [Installation](#insta
 
 To be able to test your code with Rspec, you should have Ruby and Rspec installed in your computer. To install rspec type in your terminal `gem install rspec`. After installing rspec, just got to the project folder and run `rspec` in the terminal.
 
-### Live Preview
-[Tic-tac-toe](https://repl.it/@jcy2704/tic-tac-toe#bin/tictactoe.rb)
+## Live Demo
+
+[StartGame](https://TicTacToe-2.jonathastavares.repl.run) - Repl.it live demo for TicTacToe
 
 **Enjoy our project!!**
 
@@ -157,7 +158,7 @@ To be able to test your code with Rspec, you should have Ruby and Rspec installe
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jcy2704/oop_ruby/issues).
+Feel free to check the [issues page](https://github.com/janis-jenny/Testing-TicTacToe/issues).
 
 ## ⭐ Show your support
 
