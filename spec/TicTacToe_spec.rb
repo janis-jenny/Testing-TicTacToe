@@ -21,5 +21,14 @@ describe Game do
       it 'should return false if the combination of simbols are not right' do
         expect(game.check_winner(simbol)).to eql(false)
       end
+
+      it 'should return true if the combination of simbols are right' do
+       
+        simbol = 'X'
+        game.check_move(0, simbol)
+        game.check_move(1, simbol)
+        game.check_move(2, simbol)
+        expect(game.check_winner(simbol)).to be(true)
+      end
     end
 end
