@@ -1,3 +1,4 @@
+# rubocop:disable Lint/UselessComparison
 require './lib/game_logic'
 
 describe Game do
@@ -27,3 +28,5 @@ describe Game do
     end
   end
 end
+
+# rubocop:disable Lint/UselessComparison
