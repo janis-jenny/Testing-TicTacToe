@@ -8,7 +8,7 @@
 <h1 align="center">Tic-Tac-Toe Game</h1>
 
 <p align="center">
-  <strong>Project created by Steven Jack Chung and David Leonardo Castillo</strong>
+  <strong>Project created by Jenny Cárdenas and David Leonardo Castillo</strong>
   <br>
   It was based on the project in the Ruby Module in Microverse
 </p>
@@ -23,22 +23,6 @@
   </a>
 </p>
 
-## Table of Contents
-- [❌About Tic-Tac-Toe⭕](#about-tic-tac-toe)
-- [📐 About The Project](#about-the-project)
-- [📋 Game Rules](#game-rules)
-- [📝 Game Instructions](#game-instructions)
-- [![Ruby](https://cdn.emojidex.com/emoji/px16/Ruby.png) Built With Ruby](#built-with)
-- [🖥️ Setup for starting Tic Tac Toe](#setup-for-starting-tic-tac-toe)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [💻 Run Tic-Tac-Toe](#run-tic-tac-toe)
-  - [Windows](#windows)
-  - [Mac and Linux](#mac-and-linux)
-- [Testing with Rspec](#test-code-with-rspec)
-- [👥 Authors](#authors)
-- [🤝 Contributing](#-contributing)
-- [⭐ Show your support](#show-your-support)
 
 ## ❌About Tic-Tac-Toe ⭕
 Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
