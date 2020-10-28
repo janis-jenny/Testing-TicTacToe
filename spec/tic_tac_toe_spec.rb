@@ -29,4 +29,4 @@ describe Game do
   end
 end
 
-# rubocop:disable Lint/UselessComparison
+# rubocop:enable Lint/UselessComparison
