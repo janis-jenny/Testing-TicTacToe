@@ -1,5 +1,5 @@
 # rubocop:disable Lint/UselessComparison
-require './lib/game_logic'
+require_relative './lib/game_logic'
 
 describe Game do
   let(:game) { Game.new }
