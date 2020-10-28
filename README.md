@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jcy2704/oop-ruby/issues">
+  <a href="https://github.com/janis-jenny/Testing-TicTacToe/issues">
     <img src="https://img.shields.io/badge/REPORT%20A%20BUG-purple?style=for-the-badge">
   </a>
    ‎ ‎ ‎ ‎
-  <a href="https://github.com/jcy2704/oop-ruby/issues">
+  <a href="https://github.com/janis-jenny/Testing-TicTacToe/issues">
     <img src="https://img.shields.io/badge/Request%20a%20feature-purple?style=for-the-badge">
   </a>
 </p>
